@@ -1,0 +1,23 @@
+{
+  "name": "lesson93.sliderversion2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.3"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davron1104/LESSON101.Webpack.-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davron1104/LESSON101.Webpack.-/issues"
+  },
+  "homepage": "https://github.com/davron1104/LESSON101.Webpack.-#readme",
+  "description": ""
+}

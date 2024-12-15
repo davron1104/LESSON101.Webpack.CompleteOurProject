@@ -1,0 +1,227 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Меню 'Фитнес'",
+      "descr": "Меню 'Фитнес' - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!",
+      "price": 9
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "post",
+      "title": "Меню 'Постное'",
+      "descr": "Меню 'Постное' - это тщательный подбор ингредиентов: полное отсутствие продуктов животного происхождения, молоко из миндаля, овса, кокоса или гречки, правильное количество белков за счет тофу и импортных вегетарианских стейков.",
+      "price": 14
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Меню 'Премиум'",
+      "descr": "В меню 'Премиум' мы используем не только красивый дизайн упаковки, но и качественное исполнение блюд. Красная рыба, морепродукты, фрукты - ресторанное меню без похода в ресторан!",
+      "price": 21
+    }
+  ],
+  "requests": [
+    {
+      "name": "ыцыц",
+      "phone": "+5454545",
+      "id": 1
+    },
+    {
+      "name": "deded",
+      "phone": "+7877878",
+      "id": 2
+    },
+    {
+      "name": "dede",
+      "phone": "+5454545",
+      "id": 3
+    },
+    {
+      "name": "Davron",
+      "phone": "+5454545",
+      "id": 4
+    },
+    {
+      "name": "swsw",
+      "phone": "+78787",
+      "id": 5
+    },
+    {
+      "name": "w2w2w2",
+      "phone": "+7878787",
+      "id": 6
+    },
+    {
+      "name": "test123",
+      "phone": "+787878",
+      "id": 7
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 8
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 9
+    },
+    {
+      "name": "123",
+      "phone": "+123",
+      "id": 10
+    },
+    {
+      "name": "Davron",
+      "phone": "+5454545",
+      "id": 11
+    },
+    {
+      "name": "swsw",
+      "phone": "+54545454",
+      "id": 12
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 13
+    },
+    {
+      "name": "Davron",
+      "phone": "+78787",
+      "id": 14
+    },
+    {
+      "name": "Davron",
+      "phone": "+5454545",
+      "id": 15
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 16
+    },
+    {
+      "name": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, dolor quisquam? Molestias.",
+      "phone": "+5454545",
+      "id": 17
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 18
+    },
+    {
+      "name": "test",
+      "phone": "+8787878",
+      "id": 19
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 20
+    },
+    {
+      "name": "Davron",
+      "phone": "+5454545",
+      "id": 21
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 22
+    },
+    {
+      "name": "Davron",
+      "phone": "+5454545",
+      "id": 23
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 24
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 25
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 26
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 27
+    },
+    {
+      "name": "Davron",
+      "phone": "+898989",
+      "id": 28
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 29
+    },
+    {
+      "name": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, dolor quisquam? Molestias.",
+      "phone": "+78787",
+      "id": 30
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 31
+    },
+    {
+      "name": "Davron",
+      "phone": "+5454545",
+      "id": 32
+    },
+    {
+      "name": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, dolor quisquam? Molestias.(2)",
+      "phone": "+8787878",
+      "id": 33
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 34
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 35
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 36
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 37
+    },
+    {
+      "name": "test1234",
+      "phone": "+789",
+      "id": 38
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 39
+    },
+    {
+      "name": "Davron",
+      "phone": "+998995385148",
+      "id": 40
+    }
+  ]
+}
